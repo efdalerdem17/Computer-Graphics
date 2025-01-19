@@ -79,4 +79,4 @@ if (usePerspectiveProjection) {
 - Scroll wheel: Zoom in/out
 - ImGui panels: Adjust material and lighting properties
 - 'R' key: Reload shaders
-- 
+
